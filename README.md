@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<!--[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)-->
 
 An end-to-end Machine Learning and Statistical Modeling project that predicts the success probability of historical and ongoing A/B tests. 
 
